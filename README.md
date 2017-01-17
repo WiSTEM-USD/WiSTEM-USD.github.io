@@ -1,2 +1,5 @@
-# WiSTEM-USD.github.io
-Organization website for Women in STEM at the Univ of South Dakota
+#  Women in STEM
+
+
+Shout-out to startbootstrap.com for layouts, stylesheets, templates, etc.
+
